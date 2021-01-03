@@ -9,8 +9,7 @@
 - [PNU_3991_AR](https://github.com/1022-roshan/PNU_3991_AR)
 - [Resume](https://1022-roshan.github.io/) 
 - [SOP](https://1022-roshan.github.io/Sop/)
-- [Certificates](https://1022-roshan.github.io/Certificates/)
-       - [Certificates](https://github.com/1022-roshan/Certificates)
+ - [Certificates](https://github.com/1022-roshan/Certificates)
 - [GitHub](https://github.com/1022-roshan)
 
 ------------------
