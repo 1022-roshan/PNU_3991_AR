@@ -16,7 +16,7 @@
 ## فهرست درس ها  
 
 
-[1115280_01	معماري نرم افزار	3](https://github.com/1022-roshan/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[1115280_01	معماري نرم افزار	](https://github.com/1022-roshan/PNU_3991_AR/tree/main/SoftwareArchitecture)
 
 --------------
 ## گروه درسی
