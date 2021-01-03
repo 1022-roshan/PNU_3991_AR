@@ -10,6 +10,7 @@
 - [Resume](https://1022-roshan.github.io/) 
 - [SOP](https://1022-roshan.github.io/Sop/)
 - [Certificates](https://1022-roshan.github.io/Certificates/)
+       - [Certificates](https://github.com/1022-roshan/Certificates)
 - [GitHub](https://github.com/1022-roshan)
 
 ------------------
