@@ -8,7 +8,7 @@
 # امیر حسین روشن مهر
 - [PNU_3991_AR](https://github.com/1022-roshan/PNU_3991_AR)
 - [Resume](https://github.com/1022-roshan/1022-roshan.GitHub.io) 
-- [SOP](https://github.com/1022-roshan/http-sop.github.io-)
+- [SOP](https://github.com/1022-roshan/https://github.com/1022-roshan/sop.GitHub.io)
  - [Certificates](https://github.com/1022-roshan/Certificates)
 - [GitHub](https://github.com/1022-roshan)
 
