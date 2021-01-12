@@ -22,7 +22,7 @@
 
 ##  بخش دروس ارشد
 
-- [خلاصه ارزیابی درس_معماری نرم افزار]
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/1022-roshan/PNU_3991_AR/blob/main/SoftwareArchitecture/AR_SoftwareArchitecture_CheckList_AR_3991.pdf)
 ------------------
 ## فهرست درس ها  
 
