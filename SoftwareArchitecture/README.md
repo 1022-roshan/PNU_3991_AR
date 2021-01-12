@@ -16,7 +16,7 @@
 ## Implementation_Java Script
 
 - [Implementation_Chain of Responsibility  pattern](https://drive.google.com/drive/folders/1ALQQqZzrIJGzcm6vyi_B3Z6104S1cll8)
-
+- [Implementation_strategy  pattern](https://github.com/1022-roshan/PNU_3991_AR/blob/main/SoftwareArchitecture/Strategy.pdf)
 
 --------------
 
